@@ -2,6 +2,7 @@
 <p align="center">
   <a href="https://discord.gg/V9uPGzMYNJ">Discord</a>
 </p>
+
 ---
 
 ✨ I'm a Student and CSharp Developer. 
