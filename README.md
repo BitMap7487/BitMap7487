@@ -8,7 +8,6 @@
 I love sharing my knowledge with others. When I'm not coding, you can find me geeking about Anime or playing Games.
 
 - 😄 My Pronouns: He/Him
-- 🏳‍🌈 Sexuality: Gay
 - 💬 Ask me about: C# and JavaScript.
 - ⚡ Fun fact: Even tho I'm still a Student, I'm not studying in Programming.
 
