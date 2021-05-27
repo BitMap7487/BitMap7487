@@ -3,6 +3,7 @@
   <a href="https://discord.gg/V9uPGzMYNJ">Discord</a>
 </p>
 ---
+
 ✨ I'm a Student and CSharp Developer. 
 
 I love sharing my knowledge with others. When I'm not coding, you can find me geeking about Anime or playing Games.
