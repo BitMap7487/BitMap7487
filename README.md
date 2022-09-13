@@ -11,7 +11,7 @@ I love sharing my knowledge with others. When I'm not coding, you can find me ge
 
 - 😄 My Pronouns: He/Him
 - 💬 Ask me about: C# and JavaScript.
-- ⚡ Fun fact: Even tho I'm still a Student, I'm not studying in Programming.
+- ⚡ Fun fact: Even tho I'm still a Student, Currently in year one of software development
 
 ---
 
