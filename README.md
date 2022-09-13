@@ -1,7 +1,4 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm @BitMap7487</h1>
-<p align="center">
-  <a href="https://discord.gg/DQHfT4WXBR">Discord</a>
-</p>
 
 ---
 
